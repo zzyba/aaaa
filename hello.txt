@@ -1,4 +1,2 @@
-hello git 11
-1212
-iv test
+hello git 
 master test
